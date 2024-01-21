@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: simpleclient
+  http:
+    services:
+        my-client:
+            url: http://localhost:8080
